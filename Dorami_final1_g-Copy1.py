@@ -7,8 +7,8 @@
 
 
 # import libraries
-import boto3, re, sys, math, json, os, sagemaker, urllib.request
-from sagemaker import get_execution_role
+# import boto3, re, sys, math, json, os, sagemaker, urllib.request
+# from sagemaker import get_execution_role
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
